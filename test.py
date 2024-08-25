@@ -37,7 +37,6 @@ image2 = pygame.image.load("meteorit.png")
 image_rect2 = image2.get_rect()
 
 sound = pygame.mixer.Sound("vzryiv-s-ognennyim-plamenem.wav")
-sound2 = pygame.mixer.Sound("")
 
 speed = 1
 meteorit_speed = 2
